@@ -50,3 +50,5 @@ const meuNome = "Yan" => const nao pode alterar o valor
 
   Undefined
     indefinido# maratona_explorer-Rocketseat
+
+testando git
